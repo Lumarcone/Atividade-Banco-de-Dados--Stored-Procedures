@@ -17,7 +17,8 @@ nome.sobrenome@dominio.com
 Como fica o email se duas pessoas tiverem o mesmo nome e sobrenome?
 
    # Modelo Lógico: 
-![image](https://github.com/Lumarcone/Atividade-Banco-de-Dados--Stored-Procedures/assets/137897667/c6796992-e860-453f-92e9-2e5a28f83d77)
+![image](https://github.com/Lumarcone/Atividade-Banco-de-Dados--Stored-Procedures/assets/137897667/3632c01f-f10d-422d-aa27-9a816983d30a)
+
 
 
 # Pré-requisitos 
